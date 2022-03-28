@@ -1,1 +1,19 @@
-/* No CSS *//*# sourceMappingURL=responsive.css.map */
+@media (max-width: 500px) {
+  body main {
+    margin: 0 2rem;
+  }
+  body main img {
+    width: 100px;
+    height: 100px;
+  }
+  body main p {
+    width: auto;
+  }
+  body main form label {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */

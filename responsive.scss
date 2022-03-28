@@ -1,0 +1,28 @@
+@media(max-width: 500px) {
+
+  body {
+    main {
+      margin: 0 2rem;
+
+      img {
+        width: 100px;
+        height: 100px;
+      }
+      
+      p {
+        width: auto;
+      }
+
+      form {
+        
+        label {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+      }
+    }
+  }
+
+}

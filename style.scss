@@ -11,17 +11,16 @@ body {
   align-items: center;
 
   main {
-
-    img {
-      width: 150px;
-      height: 150px;
-    }
-
     height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+
+    img {
+      width: 150px;
+      height: 150px;
+    } 
 
     h1 {
       padding-top: 2rem;
