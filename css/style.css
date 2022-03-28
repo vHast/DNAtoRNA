@@ -58,4 +58,13 @@ body main form #DNAsubmit {
   padding-left: 0.6rem;
   width: 20rem;
 }
+
+body main form #submitbtn {
+  background-color: #5297ff;
+  color: white;
+  font-weight: bold;
+  font-size: 1.05rem;
+  border: none;
+  cursor: pointer;
+}
 /*# sourceMappingURL=style.css.map */
