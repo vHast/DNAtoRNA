@@ -46,6 +46,16 @@ body {
       flex-direction: column;
       align-items: center;
 
+      p {
+        display: none;
+        text-align: center;
+        font-weight: bold;
+      }
+
+      #invalidsub {
+        color: red;
+      }
+
       input {
         height: 2rem;
         width: 10rem;

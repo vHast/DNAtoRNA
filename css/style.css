@@ -48,6 +48,16 @@ body main form {
   align-items: center;
 }
 
+body main form p {
+  display: none;
+  text-align: center;
+  font-weight: bold;
+}
+
+body main form #invalidsub {
+  color: red;
+}
+
 body main form input {
   height: 2rem;
   width: 10rem;
